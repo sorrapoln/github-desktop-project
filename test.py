@@ -8,3 +8,6 @@ def root(x, n):
 
     return x**(1/n)
 
+def add(a,b):
+
+    return a + b
